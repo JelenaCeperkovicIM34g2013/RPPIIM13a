@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: rpp.Rppiim13aApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 174.199 s - in rpp.Rppiim13aApplicationTests
